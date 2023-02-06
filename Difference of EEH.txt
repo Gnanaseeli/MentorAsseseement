@@ -1,0 +1,13 @@
+ENCODING:
+	-Transfering data from one system to other
+	-Used for reducing the size of an file
+	-Not used for security purposes
+ENCRYPTION:
+	-Used for transferring data privately
+	-Only authorized can access the information
+	-Encrypted with keys
+HASHING:
+	-Used for storing data
+	-Mostly used for verifying purpose
+	-Once stored its's fixed 
+	
